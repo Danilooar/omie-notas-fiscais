@@ -23,13 +23,14 @@ Clone o repositório:
 
 
 git clone https://github.com/SEU_USUARIO/omie-api-integration.git
-Instale as dependências:
+
+<h1>Instale as dependências:</h1>
 
 pip install requests pandas
 Execute o script:
 
 
 python omie_nf_listagem.py
-Após a execução, os arquivos de saída (CSV, JSON, Excel) estarão na pasta do repositório.
+<p>Após a execução, os arquivos de saída (CSV, JSON, Excel) estarão na pasta do repositório.</p>
 
 
