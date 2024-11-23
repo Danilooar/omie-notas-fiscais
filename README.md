@@ -2,7 +2,7 @@
 
 <h1>Omie API - Listagem de Notas Fiscais<</h1>
   <p>
-Este repositório contém um script Python para acessar a API da Omie e listar as notas fiscais emitidas entre janeiro e maio de 2024. O código utiliza a função ListarNF da API, paginando os resultados para garantir a coleta completa dos dados de todas as notas fiscais, sem limites de registros por página.</p>
+ um script Python para acessar a API da Omie e listar as notas fiscais emitidas entre janeiro e maio de 2024. Utiliza a função ListarNF da API, paginando os resultados para garantir a coleta completa dos dados de todas as notas fiscais, sem limites de registros por página.</p>
 
 <h1>Funcionalidades</h1>
 <p>Conecta à API da Omie usando requests.></p>
