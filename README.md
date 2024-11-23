@@ -24,7 +24,7 @@ Clone o repositório:
 
 git clone https://github.com/SEU_USUARIO/omie-api-integration.git
 
-<h1>Instale as dependências:</h1>
+<h3>Instale as dependências:</h3>
 
 pip install requests pandas
 Execute o script:
