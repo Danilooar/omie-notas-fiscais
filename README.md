@@ -17,4 +17,19 @@
     <li>pandas: Biblioteca para manipulação de dados e exportação para diferentes formatos (CSV, JSON, Excel).</li>
 </ul>
 
+<h1>Como Rodar</h1>
+Clone o repositório:
+
+
+
+git clone https://github.com/SEU_USUARIO/omie-api-integration.git
+Instale as dependências:
+
+pip install requests pandas
+Execute o script:
+
+
+python omie_nf_listagem.py
+Após a execução, os arquivos de saída (CSV, JSON, Excel) estarão na pasta do repositório.
+
 
